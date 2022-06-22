@@ -4,7 +4,7 @@ import pywhatkit
 #importing datetime to get current time
 from datetime import datetime
 
-# Getting CUrrent Date
+# Getting Current time
 now = datetime.now()
 chour = now.strftime("%H")
 
